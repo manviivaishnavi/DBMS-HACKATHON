@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS skillsync_db;
+
+USE skillsync_db;
+
+SHOW DATABASES;
